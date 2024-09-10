@@ -1,4 +1,4 @@
-#AIY Note
+# AIY Note
 AIY Note or Abstract Information Y-Note is a note taking application which uses python as the core programming language and SQL database and text files for the storing information data.
 The application is a Y-type system where all the three components are connected with each other.
 The program uses python to connect the application to SQL and text files.
