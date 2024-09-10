@@ -1,0 +1,2 @@
+sender_email = 'aiynotes2021@gmail.com'
+password = "aiynotes.gmail"
